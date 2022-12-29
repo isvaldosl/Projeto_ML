@@ -10,6 +10,6 @@ Orientador: Prof. Dr. James Sampaio
 
 Tema: ANÁLISE DOS FATORES DETERMINANTES DA TAXA DE OCUPAÇÃO E CONCLUSÃO NO ENSINO SUPERIOR NO BRASIL
 
-Fonte de dados principal: Censo da Educçõ Superior (INEP)
+Fonte de dados principal: Censo da Educação Superior (INEP)
 
 Versão 1.2 (13/9/2022)
